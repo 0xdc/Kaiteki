@@ -56,7 +56,9 @@ dependencies:
   notified_preferences: ^2.0.0
   notified_preferences_riverpod: ^1.0.0
   oauth1:
-    git: https://github.com/Kaiteki-Fedi/dart-oauth1.git
+    git:
+      url: https://github.com/Kaiteki-Fedi/dart-oauth1.git
+      ref: 386f966910de1
   page_view_dot_indicator: ^2.0.0
   path: ^1.8.1
   path_provider: ^2.0.11
